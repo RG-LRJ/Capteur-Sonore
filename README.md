@@ -26,7 +26,6 @@ Maintenant que le capteur est assemblé, il faut y mettre le programme. Pour cel
 
 Une fois ces modules installés, il faut choisir le bon modèle de « Board » et le bon port de connexion.
 
-![Choix de la board](img/Capteur%20sonore_html_eb72a2f.png)  
 ![Port et configuration](img/Capteur%20sonore_html_25338ff2.png)
 
 Vous pouvez également ouvrir le programme `sonometre_vX.ino`.
