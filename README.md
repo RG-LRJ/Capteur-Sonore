@@ -34,7 +34,7 @@ Une fois arrivé à cette étape, vous pouvez écraser le logiciel de démarrage
 `Tools >> Burn Bootloader`
 pour la préparer à recevoir le programme.
 
-Une fois terminé, vous pouvez lancer le téléversement du programme sur le capteur.
+Une fois terminé, vous pouvez lancer le téléversement du programme ![Programme Sonometre](Sonometre.ino) sur le capteur.
 
 ![Téléversement terminé](img/Capteur%20sonore_html_9e77c984.png)
 
