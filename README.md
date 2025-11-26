@@ -22,7 +22,7 @@ Pour connecter la carte Arduino Nano Matter et le capteur sonore Grove (réf. 10
 
 Maintenant que le capteur est assemblé, il faut y mettre le programme. Pour cela, il faut un ordinateur muni du logiciel « Arduino IDE », sur lequel il faut ajouter les modules **Arduino AVR Boards** et **Silicon Labs** (voir captures ci-dessous).
 
-![Arduino Boards 1](img/Capteur%20sonore_html_485a56b6.png) ![Arduino Boards 2](Capteur%20sonore_html_f8f30e2b.png)
+![Arduino Boards 1](img/Capteur%20sonore_html_485a56b6.png) ![Arduino Boards 2](img/Capteur%20sonore_html_f8f30e2b.png)
 
 Une fois ces modules installés, il faut choisir le bon modèle de « Board » et le bon port de connexion.
 
