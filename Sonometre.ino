@@ -1,6 +1,6 @@
 // Programme de mesure de niveau de bruit
 // Romain Garel
-// Spécifique Matter (Utilisation d'un capteur de pression pour les mesures car le capteur sonore n'existe pas encore dans Matter)
+// Spécifique Matter (Utilisation d'un capteur de pression pour les mesures car le capteur sonore n'existe pas encore dans la norme Matter)
 
 #include <Matter.h>
 #include <MatterPressure.h>
