@@ -48,12 +48,3 @@ Pour l’appairer au contrôleur domotique, vous aurez besoin de ce QR Code ou d
 
 ---
 
-Fichiers images référencés (relatifs au dépôt) :
-- Capteur sonore_html_34c03754.png
-- Capteur sonore_html_4557f30c.png
-- Capteur sonore_html_485a56b6.png
-- Capteur sonore_html_f8f30e2b.png
-- Capteur sonore_html_eb72a2f.png
-- Capteur sonore_html_25338ff2.png
-- Capteur sonore_html_9e77c984.png
-- Capteur sonore_html_1de0b1fc.png
