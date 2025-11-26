@@ -8,7 +8,7 @@
 
 #define MODE_TEST 1
 #define MODE_NOMINAL 2
-#define MODE MODE_TEST   // MODE_NOMINAL ou MODE_TEST (pour tester les capteurs sans Matter en suivant les mesures via le terminal)
+#define MODE MODE_NOMINAL   // MODE_NOMINAL ou MODE_TEST (pour tester les capteurs sans Matter en suivant les mesures via le terminal)
 
 #define ON LOW      // Gestion de la led RGB
 #define OFF HIGH
