@@ -1,6 +1,6 @@
 # Capteur Sonore
 
-![Capteur Sonore](Capteur.jpg)
+![Capteur Sonore](img/Capteur.jpg)
 
 Assemblage et programmation
 
